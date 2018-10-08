@@ -1,2 +1,2 @@
-# tcecreatrix.github.io
+# Creatrix
 Tce Creatrix Hackathon
